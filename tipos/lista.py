@@ -6,6 +6,9 @@ nums. append(4)
 nums. append(500)
 print(len(nums))
 
+print(10 in nums)
+print(3 in nums)
+
 nums[3] = 100
 nums.insert(0, -200)
 
